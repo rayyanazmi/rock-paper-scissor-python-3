@@ -64,7 +64,7 @@ def main(score_limit):
         print ("the pc score is: ", pc_score)
 
     if user_score == score_limit:
-        print ("congrats you won")
+        print ("congrats you won!")
     elif pc_score == score_limit:
         print ("the computer won, better luck next time")
 
