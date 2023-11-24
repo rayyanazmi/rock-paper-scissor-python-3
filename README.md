@@ -6,7 +6,7 @@ The Rock Paper Scissors Game is a simple Python script that allows users to play
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   git clone https://github.com/rayyanazmi/rock-paper-scissors-game.git
    ```
 
 2. **Navigate to the Project Directory:**
